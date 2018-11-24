@@ -10,7 +10,7 @@
 	dc.l Pal_LevelSel
 	dc.w $FB00
 	dc.w $1F
-	dc.l Pal_Sonic3
+	dc.l Pal_Sonic
 	dc.w $FB00
 	dc.w 7
 	dc.l Pal_GHZ3
